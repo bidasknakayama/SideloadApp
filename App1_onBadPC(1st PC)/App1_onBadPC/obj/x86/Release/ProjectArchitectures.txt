@@ -1,0 +1,1 @@
+c:\users\nakayama\documents\visual studio 2017\Projects\App1_onBadPC\App1_onBadPC\App1_onBadPC.csproj;x86

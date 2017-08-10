@@ -1,0 +1,10 @@
+/out:"c:\users\yayoi\documents\visual studio 2017\Projects\App1\App1\obj\ARM\Release\ilc\intermediate\SgGenerated\\"
+/int:"c:\users\yayoi\documents\visual studio 2017\Projects\App1\App1\obj\ARM\Release\ilc\intermediate\\"
+/ref:"c:\users\yayoi\documents\visual studio 2017\Projects\App1\App1\obj\ARM\Release\ilc\intermediate\PreMergeILTransformed\\"
+/ref:"c:\users\yayoi\documents\visual studio 2017\Projects\App1\App1\obj\ARM\Release\ilc\intermediate\TransformedSRWR\\"
+/ref:"c:\users\yayoi\documents\visual studio 2017\Projects\App1\App1\obj\ARM\Release\ilc\in\\"
+/ref:"c:\users\yayoi\documents\visual studio 2017\Projects\App1\App1\obj\ARM\Release\ilc\in\\"
+/ref:"c:\users\yayoi\documents\visual studio 2017\Projects\App1\App1\obj\ARM\Release\ilc\in\\"
+/ref:"C:\Program Files (x86)\MSBuild\15.0\.Net\.NetNative\15.0.24211\ARM\ilc\lib\Private\\"
+/ref:"c:\users\yayoi\documents\visual studio 2017\Projects\App1\App1\obj\ARM\Release\ilc\in\WinMetadata\\"
+/ca:System.Private.CoreLib
